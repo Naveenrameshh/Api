@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "email": "admin@example.com",
+        "password": "admin123",
+        "role": "admin"
+      },
+      {
+        "id": "2",
+        "email": "employee@example.com",
+        "password": "employee123",
+        "role": "employee"
+      }
+    ],
+    "logs": [
+      
+      {
+        "id": "bb04",
+        "userId": "2",
+        "email": "employee@example.com",
+        "date": "12/12/2024",
+        "punchIn": "03:52 PM",
+        "totalBreakTime": 0,
+        "workingTime": 0,
+        "morningBreakStart": "03:52 PM",
+        "morningBreakEnd": "03:52 PM",
+        "lunchStart": "03:52 PM",
+        "lunchEnd": "03:52 PM",
+        "eveningBreakStart": "03:52 PM",
+        "eveningBreakEnd": "03:52 PM",
+        "punchOut": "03:53 PM"
+      }
+    ]
+  }
